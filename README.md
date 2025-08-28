@@ -68,6 +68,6 @@ Clone the repository and run the script:
 
 ```bash
 git clone https://github.com/KitsuneScript/FizzBuzz.git
-cd fizzbuzz/src
+cd FizzBuzz/src
 node fizzbuzz.js
 ```
